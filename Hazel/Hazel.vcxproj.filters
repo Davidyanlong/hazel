@@ -93,13 +93,25 @@
     <ClInclude Include="src\Hazel\MouseButtonCodes.h">
       <Filter>src\Hazel</Filter>
     </ClInclude>
+    <ClInclude Include="src\Hazel\Renderer\Buffer.h">
+      <Filter>src\Hazel\Renderer</Filter>
+    </ClInclude>
     <ClInclude Include="src\Hazel\Renderer\GraphicsContext.h">
+      <Filter>src\Hazel\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hazel\Renderer\Renderer.h">
+      <Filter>src\Hazel\Renderer</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Hazel\Renderer\Shader.h">
       <Filter>src\Hazel\Renderer</Filter>
     </ClInclude>
     <ClInclude Include="src\Hazel\Window.h">
       <Filter>src\Hazel</Filter>
     </ClInclude>
     <ClInclude Include="src\Platform\OpenGL\ImGuiOpenGLRenderer.h">
+      <Filter>src\Platform\OpenGL</Filter>
+    </ClInclude>
+    <ClInclude Include="src\Platform\OpenGL\OpenGLBuffer.h">
       <Filter>src\Platform\OpenGL</Filter>
     </ClInclude>
     <ClInclude Include="src\Platform\OpenGL\OpenGLContext.h">
@@ -1362,10 +1374,6 @@
     <ClInclude Include="vendor\glm\glm\vector_relational.hpp">
       <Filter>vendor\glm\glm</Filter>
     </ClInclude>
-    <ClInclude Include="src\Hazel\Renderer\Shader.h" />
-    <ClInclude Include="src\Hazel\Renderer\Buffer.h" />
-    <ClInclude Include="src\Hazel\Renderer\Renderer.h" />
-    <ClInclude Include="src\Platform\OpenGL\OpenGLBuffer.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hazel\Application.cpp">
@@ -1386,7 +1394,19 @@
     <ClCompile Include="src\Hazel\Log.cpp">
       <Filter>src\Hazel</Filter>
     </ClCompile>
+    <ClCompile Include="src\Hazel\Renderer\Buffer.cpp">
+      <Filter>src\Hazel\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hazel\Renderer\Renderer.cpp">
+      <Filter>src\Hazel\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Hazel\Renderer\Shader.cpp">
+      <Filter>src\Hazel\Renderer</Filter>
+    </ClCompile>
     <ClCompile Include="src\Platform\OpenGL\ImGuiOpenGLRenderer.cpp">
+      <Filter>src\Platform\OpenGL</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Platform\OpenGL\OpenGLBuffer.cpp">
       <Filter>src\Platform\OpenGL</Filter>
     </ClCompile>
     <ClCompile Include="src\Platform\OpenGL\OpenGLContext.cpp">
@@ -1401,9 +1421,5 @@
     <ClCompile Include="src\hzpch.cpp">
       <Filter>src</Filter>
     </ClCompile>
-    <ClCompile Include="src\Hazel\Renderer\Shader.cpp" />
-    <ClCompile Include="src\Hazel\Renderer\Buffer.cpp" />
-    <ClCompile Include="src\Hazel\Renderer\Renderer.cpp" />
-    <ClCompile Include="src\Platform\OpenGL\OpenGLBuffer.cpp" />
   </ItemGroup>
 </Project>
