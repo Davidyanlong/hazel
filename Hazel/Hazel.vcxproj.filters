@@ -1398,6 +1398,9 @@
     <ClInclude Include="src\Hazel\Core\Timestep.h">
       <Filter>src\Hazel\Core</Filter>
     </ClInclude>
+    <ClInclude Include="src\Platform\OpenGL\OpenGLShader.h">
+      <Filter>src\Platform\OpenGL</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="src\Hazel\Application.cpp">
@@ -1462,6 +1465,9 @@
     </ClCompile>
     <ClCompile Include="src\Hazel\Renderer\OrthographicCamera.cpp">
       <Filter>src\Hazel\Renderer</Filter>
+    </ClCompile>
+    <ClCompile Include="src\Platform\OpenGL\OpenGLShader.cpp">
+      <Filter>src\Platform\OpenGL</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
