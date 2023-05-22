@@ -12,11 +12,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <Image Include="assets\textures\Checkerboard.png">
-      <Filter>assets\textures</Filter>
-    </Image>
-    <Image Include="assets\textures\ChernoLogo.png">
-      <Filter>assets\textures</Filter>
-    </Image>
+    <None Include="assets\shaders\Texture.glsl" />
   </ItemGroup>
 </Project>
