@@ -1,0 +1,522 @@
+[33mcommit c51d1d0c33cf65dd5307cdf11e1bb8f0017c2d55[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Merge: 3a35767 02984d8
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 21:59:12 2023 +0800
+
+    update
+
+[33mcommit 3a35767c91a1fe4431fc481588216cc50bffe408[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 20:30:21 2023 +0800
+
+    gitignore update
+
+[33mcommit 9d14c6d11154aec395454eed852d81793c5f041c[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 20:26:22 2023 +0800
+
+    add larget file
+
+[33mcommit e7ff8f4013bb97e1b82c1914a5f1d4d2b3b58670[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 18:19:00 2023 +0800
+
+    Log messages are now additionally sent to Hazel.log file
+
+[33mcommit f5630c8762e928264a87bc60bc782bf1057a1dd7[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 18:14:02 2023 +0800
+
+    make runloop only accessible on the engine side
+
+[33mcommit 8e7e8e9186d8c5ab21931883f1ac61b50a0ff562[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 18:00:39 2023 +0800
+
+    compile time check of window type and input type
+
+[33mcommit 212428ebbb09e3d797d63ced3f6e9c4658446980[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:53:19 2023 +0800
+
+    Instrumentation fixes
+
+[33mcommit 4927ed609a1c278b1f004c05b793e0886043015c[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:50:36 2023 +0800
+
+    Implement KeyCodes and MouseCodes enums
+
+[33mcommit 18e4dbe62a4315fcf39accaabc94b5ccfaeb3a6f[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:31:49 2023 +0800
+
+    Logging OpenGL messages
+
+[33mcommit 37242fe3b17348c46ae72795f2866f0d129faa56[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:26:25 2023 +0800
+
+    Auto deducing an availabe __FUNCSIG__ definition
+
+[33mcommit 0652524528648ce399d2e9ee10cd5205e63f5d21[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:21:38 2023 +0800
+
+    Updated the contribution guidelines (#180)
+
+[33mcommit bf5d22b561dd41d1ebe09359a756c96449665a31[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:17:58 2023 +0800
+
+    x64 architecture parameter fix
+
+[33mcommit c2c6eac2bce23084ba32989cf03b2a0bbcd904ac[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:15:16 2023 +0800
+
+    Missing iterator wrappers in LayerStack.h
+
+[33mcommit 942ccf52bf107f6bd0a64d52d4d94c67c3b30259[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:12:06 2023 +0800
+
+    Move Sandbox ExampleLayer to separate file
+
+[33mcommit d6bfebb17e0099e32b7187627e73a816f8269ec7[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 17:03:31 2023 +0800
+
+    Instrumentation pass over entire codebase
+
+[33mcommit 02984d8f5be496ea88d3c6b6cc2152c93a784ecc[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 16:44:40 2023 +0800
+
+    Initial instrumentation work
+
+[33mcommit 93a7fa8f27f76fbee481aa48cc108392e0e26cfe[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 16:44:40 2023 +0800
+
+    Initial instrumentation work
+
+[33mcommit 0033ea60f15a3f6ce2922f2ec077d6e65fb31d47[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 16:27:32 2023 +0800
+
+    Added timer to Sandbox for basic profiling demo
+
+[33mcommit 30396000029784ef380bcf5de3e2629cb6530788[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun Jun 18 16:27:32 2023 +0800
+
+    Added timer to Sandbox for basic profiling demo
+
+[33mcommit 4da62779fb0e6cbed9adbc30e72a83c8f04787b0[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 17 22:07:38 2023 +0800
+
+    Code maintenance
+
+[33mcommit 4cc7be3e88183e3c11f24660fa41b993e1d51e84[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 17 22:07:38 2023 +0800
+
+    Code maintenance
+
+[33mcommit db5c9184540a48e08fd7dd6866b0b00d0b970698[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 17 20:36:25 2023 +0800
+
+    Renderer2D now uses a single shader to render both textured
+
+[33mcommit 185ac3741eea126f657deb207245e56ca3a8b460[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 17 20:36:25 2023 +0800
+
+    Renderer2D now uses a single shader to render both textured
+
+[33mcommit 4b507b32efeb2cdf58f1ca58563d0e0a2c86afdf[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 17 18:32:40 2023 +0800
+
+    Added transforms and texture to Renderer2D
+
+[33mcommit 046ec7759fb7f9945546ce9325bd25ae1e4e0b0a[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 17 18:32:40 2023 +0800
+
+    Added transforms and texture to Renderer2D
+
+[33mcommit 57031136292a906e07570bc913b0539e18a6f5b5[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:38:37 2023 +0800
+
+    Made win-GenProjects.bat work from every directory
+
+[33mcommit 1ba6d47d89b03022d288204c828a129a97837cfe[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:38:37 2023 +0800
+
+    Made win-GenProjects.bat work from every directory
+
+[33mcommit cb4232a72bb04ac9539bd49dcbc6cfe99bac81b0[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:31:25 2023 +0800
+
+    Fix Build warnings to do with BufferElement Offset Type
+
+[33mcommit 61cda47bc5c3671ef26f091964ae6ff49b170512[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:31:25 2023 +0800
+
+    Fix Build warnings to do with BufferElement Offset Type
+
+[33mcommit f3cd71786e1b815bfab77dafa08c487227718e1a[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:25:58 2023 +0800
+
+    Fix PR template(s) where not showing
+
+[33mcommit af95c0306385465a98d198d89957c3e4de28b71b[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:25:58 2023 +0800
+
+    Fix PR template(s) where not showing
+
+[33mcommit 325e91e0446e3fd8ce31b0ac5a8a8f3950f600c6[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:20:06 2023 +0800
+
+    Started work on 2D renderer
+
+[33mcommit bc29677a5d21dfc9f77a208281dcd2f36911a1a4[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 21:20:06 2023 +0800
+
+    Started work on 2D renderer
+
+[33mcommit 53a19732220e49ef2af48aeb6cdfe7a45238f4f2[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 17:34:03 2023 +0800
+
+    Created Sandbox2D layer for testing upcoming 2D rendering
+
+[33mcommit 3ff10b9a53ab91c34d0a6654b0491d240cdd9a7a[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 17:34:03 2023 +0800
+
+    Created Sandbox2D layer for testing upcoming 2D rendering
+
+[33mcommit 0a8115ffd8c575bfc1604a89d5b09270953b0561[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:37:23 2023 +0800
+
+    Fixs for OrthographicCameraController Movement
+
+[33mcommit 5c45dced5751b68d95b98b390b4609aceed941a5[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:37:23 2023 +0800
+
+    Fixs for OrthographicCameraController Movement
+
+[33mcommit 4a6b1d88c815bee2926052fc50f134eb29719e33[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:24:31 2023 +0800
+
+    Added check for OpenGL version
+
+[33mcommit ea6c5cf8bc3458cdd989a9de71ea18ebda01f858[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:24:31 2023 +0800
+
+    Added check for OpenGL version
+
+[33mcommit 7d2c7f49c700d5f17f2f64cd0d20af4f0351ee4c[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:15:56 2023 +0800
+
+    Fixed edege case in OpenGLShader::PreProcess Logic
+
+[33mcommit 8d41609d8b0cab2031f83af5c40c395bf16d4118[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:15:56 2023 +0800
+
+    Fixed edege case in OpenGLShader::PreProcess Logic
+
+[33mcommit 2de1173c4763d0c0d1762d4a808813349577ef70[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:00:55 2023 +0800
+
+    Fixing bug when trying to update submodules
+
+[33mcommit 20fde8911d64b84820c0ce16eb6689f39e2c5b85[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 11:00:55 2023 +0800
+
+    Fixing bug when trying to update submodules
+
+[33mcommit d56bbe62a6081f226d2f78d8cc251b32f0b55e3d[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:48:43 2023 +0800
+
+    Call the layer's OnDetach before deleting it
+
+[33mcommit 1a25bfaeeab661eb1e238674affe80e610d73b32[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:48:43 2023 +0800
+
+    Call the layer's OnDetach before deleting it
+
+[33mcommit a73deac54596eb21b9d913548587b55e25b566bd[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:45:51 2023 +0800
+
+    Remove unneccessary token-pasting operator in EVENT_CLASS_TYPE
+
+[33mcommit ee4f71a000e519ea2ac2eac9ee52355a391def47[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:45:51 2023 +0800
+
+    Remove unneccessary token-pasting operator in EVENT_CLASS_TYPE
+
+[33mcommit 2fd72434e655c3e58bfb8a706dbda39b0dcd0791[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:39:44 2023 +0800
+
+    Added the required YAML front matter to templates
+
+[33mcommit 5670a053e747746b9c794ed0a6934be2b3e5af17[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:39:44 2023 +0800
+
+    Added the required YAML front matter to templates
+
+[33mcommit 8c9a70f25005a25b9931aee047aae88c5f3b7d2b[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:34:58 2023 +0800
+
+    Added templates for(future) issues and pull requests
+
+[33mcommit 47e5c89edd6000dc270eae072b14cf4b6e5a68d5[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:34:58 2023 +0800
+
+    Added templates for(future) issues and pull requests
+
+[33mcommit c94d99de5d61eb296850569675496c6e53a229e6[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:18:57 2023 +0800
+
+    Adding VS files to gitignore
+
+[33mcommit 06b350e51ed854475115c0e4fa0f30278388b08d[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:18:57 2023 +0800
+
+    Adding VS files to gitignore
+
+[33mcommit 143bc63298c6980b12ee119a2fb1b635e2f19d7c[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:12:40 2023 +0800
+
+    Upgrade to VS 2022 + Organization
+
+[33mcommit f8f948981b5456740e090912850bf9100f463511[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 10:12:40 2023 +0800
+
+    Upgrade to VS 2022 + Organization
+
+[33mcommit c346604eb8bf5d2f61d99e8a3fb178e225bc416e[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 09:33:53 2023 +0800
+
+    Added proper window resize handing
+
+[33mcommit c7cd3db03ba80d6a5a51afea6ee18f9c442c607a[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 10 09:33:53 2023 +0800
+
+    Added proper window resize handing
+
+[33mcommit 717da596687eea87592f3b08bd3c7f6594c9428d[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 3 22:54:18 2023 +0800
+
+    Added orthographic camera controll
+
+[33mcommit 9e3f144318a2a9bc47cffd5eac0236e0b6823c84[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat Jun 3 22:54:18 2023 +0800
+
+    Added orthographic camera controll
+
+[33mcommit 5bac5b561d568a23670a060d61691fae91b53e50[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat May 27 22:32:51 2023 +0800
+
+    Updated readme and added logo
+
+[33mcommit 52f6970d1287639ede3022cfcb7b77dee46618a0[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat May 27 22:32:51 2023 +0800
+
+    Updated readme and added logo
+
+[33mcommit 69f505f73c6a117bf1abe00766984bc19fb77553[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat May 27 22:28:25 2023 +0800
+
+    Added ShaderLibrary + misc fixes
+
+[33mcommit 73143e9ede8f77e5278926eb341f2e044b5c9bc1[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sat May 27 22:28:25 2023 +0800
+
+    Added ShaderLibrary + misc fixes
+
+[33mcommit e137bf61bfa9ab7ac2b50faa985bc21783377e36[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 21:41:33 2023 +0800
+
+    Shaders can now be read from files
+
+[33mcommit 4d1dc8c308f299b1a527d81ccebcfb9705a6b6b5[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 21:41:33 2023 +0800
+
+    Shaders can now be read from files
+
+[33mcommit 6da5b9ae2d2c2b3a4a32b130ce072d642bfdfea1[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:34:32 2023 +0800
+
+    Avpod isomg std::function in event dispactcher for performance
+
+[33mcommit 771725dd23ca8010fd05aafaef60b1dffda3d0e2[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:34:32 2023 +0800
+
+    Avpod isomg std::function in event dispactcher for performance
+
+[33mcommit f949f45fd0a671ce826b1713b07814583509213b[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:28:33 2023 +0800
+
+    Made Input a true singleton
+
+[33mcommit d767cbe8b7fbf78216d37d5a24dd7ed1c50aeb66[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:28:33 2023 +0800
+
+    Made Input a true singleton
+
+[33mcommit 13b83aee8782c30b94508b9ed4422715b59c8e54[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:23:46 2023 +0800
+
+    Change bind target inside OpenGLInexBuffer constructor
+
+[33mcommit 56795793df6a4fdb45bb544adbfb733456fe92b3[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:23:46 2023 +0800
+
+    Change bind target inside OpenGLInexBuffer constructor
+
+[33mcommit 1ab35b81651948496838c8c948f31e4c89b9af58[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:18:46 2023 +0800
+
+    Adding flag for Multiprocessor Compilation in Premake
+
+[33mcommit 3405b9aab4acf98bc59dee7c36c8cd44b5eb701c[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:18:46 2023 +0800
+
+    Adding flag for Multiprocessor Compilation in Premake
+
+[33mcommit ec721b6e50263ad873853564f2e452932987ed6f[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:14:40 2023 +0800
+
+    Updated GLFW submodule.
+
+[33mcommit e74a0272124420b3f8047edc7aeca6ddbefe1faa[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Mon May 22 20:14:40 2023 +0800
+
+    Updated GLFW submodule.
+
+[33mcommit 2cd41b4305cb67f9ab00b8be77802da6a9567e8a[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 21:52:49 2023 +0800
+
+    Smoother project generation
+
+[33mcommit 459ddfcd4e51ebfc192a342d2ddb1be727c42037[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 21:52:49 2023 +0800
+
+    Smoother project generation
+
+[33mcommit 15a948eefcbcbf86fdb2bd70d1c9bf5aed354fcb[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 21:47:12 2023 +0800
+
+    Added support for blending, and loading both RGB and RGBA textures
+
+[33mcommit ae661fc51a1610cf1e2a6566b3931f5c9beae369[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 21:47:12 2023 +0800
+
+    Added support for blending, and loading both RGB and RGBA textures
+
+[33mcommit b8f4f741e9cd2e076629bc183240e8a5f0e3366e[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 14:16:07 2023 +0800
+
+    fix warning casting size_t to uint32_t in OpenGLVertexArray
+
+[33mcommit a2cd2b55c922f4bbeb7074ff7226edd1f393c35e[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 14:16:07 2023 +0800
+
+    fix warning casting size_t to uint32_t in OpenGLVertexArray
+
+[33mcommit 6cc76a0fa03e52a7716fd37c30a3495c52fb3d79[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 14:11:58 2023 +0800
+
+    OpenGLVertexArray not adding multible vertexBuffers correctly
+
+[33mcommit 8a91a61f64d9dac8fd5b26fd8096cee6deffecc0[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 14:11:58 2023 +0800
+
+    OpenGLVertexArray not adding multible vertexBuffers correctly
+
+[33mcommit c3b39d67c4d2abaaada3335da70d4501a27bc3d8[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 14:03:28 2023 +0800
+
+    Fixed a bug in LayerStack which would occur if passing an overlay or a non-existent layer in to popLayer.
+
+[33mcommit de4c67d8727b0597f295dd9a44f21afa09a40e91[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 14:03:28 2023 +0800
+
+    Fixed a bug in LayerStack which would occur if passing an overlay or a non-existent layer in to popLayer.
+
+[33mcommit 7196a1d6916c1b5c4852d07dec508bbc45b6c844[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 13:57:47 2023 +0800
+
+    fixed that single warning...
+
+[33mcommit 4106c888b02622fc5fc632768e0cb003c3e30f38[m
+Author: yanlong.yang <yyl_love_you@126.com>
+Date:   Sun May 21 13:57:47 2023 +0800
+
+    fixed that single warning...
