@@ -9,11 +9,11 @@
 
 #include "Hazel/Core/Timestep.h"
 
-#include"Hazel/ImGui/ImGuiLayer.h"
+#include "Hazel/ImGui/ImGuiLayer.h"
 
 namespace Hazel {
 
-	class  Application
+	class Application
 	{
 	public:
 		Application();
@@ -31,7 +31,7 @@ namespace Hazel {
 		inline static Application& Get() { return *s_Instance; }
 	private:
 		bool OnWindowClose(WindowCloseEvent& e);
-		bool onWindowResize(WindowResizeEvent& e);
+		bool OnWindowResize(WindowResizeEvent& e);
 	private:
 		std::unique_ptr<Window> m_Window;
 		ImGuiLayer* m_ImGuiLayer;
